@@ -1,3 +1,19 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "Test2",
+      "description": "erer",
+      "id": 1
+    },
+    {
+      "title": "test",
+      "description": "desctttt",
+      "id": 2
+    },
+    {
+      "title": "egg stream",
+      "description": "good stream for egg fans",
+      "id": 3
+    }
+  ]
 }
