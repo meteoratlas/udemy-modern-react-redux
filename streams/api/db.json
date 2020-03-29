@@ -16,10 +16,21 @@
       "id": 3
     },
     {
-      "title": "First Stream",
-      "description": "Made by me",
+      "title": "First Stream edit",
+      "description": "Made by me edit",
       "userId": "116596832237013525582",
       "id": 4
+    },
+    {
+      "title": "Programmatic Navi",
+      "description": "prog navigation test",
+      "id": 5
+    },
+    {
+      "title": "Test 3 edit",
+      "description": "desc3 - should be edited",
+      "userId": "116596832237013525582",
+      "id": 6
     }
   ]
 }
